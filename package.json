@@ -1,0 +1,22 @@
+{
+  "name": "typescript-cheatsheet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node ./build/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mthpvg/typescript-cheatsheet.git"
+  },
+  "author": "mthpvg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mthpvg/typescript-cheatsheet/issues"
+  },
+  "homepage": "https://github.com/mthpvg/typescript-cheatsheet#readme",
+  "dependencies": {
+    "typescript": "^3.1.6"
+  }
+}
